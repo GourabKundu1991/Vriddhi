@@ -1,0 +1,6 @@
+framework module react_native_month_year_picker {
+  umbrella header "react-native-month-year-picker-umbrella.h"
+
+  export *
+  module * { export * }
+}

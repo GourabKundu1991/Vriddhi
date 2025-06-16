@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whitecolor">#ffffff</color>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="app_name">Vriddhi</string>
+    <string name="default_web_client_id" translatable="false">616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tata-40b49.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">616807808716</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY</string>
+    <string name="google_app_id" translatable="false">1:616807808716:android:96225b6880774f5ae50c69</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY</string>
+    <string name="google_storage_bucket" translatable="false">tata-40b49.appspot.com</string>
+    <string name="project_id" translatable="false">tata-40b49</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>

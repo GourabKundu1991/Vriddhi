@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nuvoco.vriddhi.app-mergeReleaseResources-50:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/gourabkundu/.gradle/caches/transforms-3/2ede739dd5877232d89f9a749046c9b4/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

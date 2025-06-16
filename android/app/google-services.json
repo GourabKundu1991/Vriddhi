@@ -1,0 +1,371 @@
+{
+  "project_info": {
+    "project_number": "616807808716",
+    "firebase_url": "https://tata-40b49.firebaseio.com",
+    "project_id": "tata-40b49",
+    "storage_bucket": "tata-40b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:800f1b9658284d7de50c69",
+        "android_client_info": {
+          "package_name": "com.abhimaan.ambuja.mjunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:3f4e654a69e6a5ce",
+        "android_client_info": {
+          "package_name": "com.mjunction.dalmia.plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:4eadc2bda8ca868e",
+        "android_client_info": {
+          "package_name": "com.mjunction.fortune.elite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:18cd0ab477cf00d4",
+        "android_client_info": {
+          "package_name": "com.mjunction.fortune.magnifique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:8057013c8d788b0c",
+        "android_client_info": {
+          "package_name": "com.mjunction.jkuphaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:f0ab31dfcf9f58ca",
+        "android_client_info": {
+          "package_name": "com.mjunction.lafarge.milan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:23628fb784994e12",
+        "android_client_info": {
+          "package_name": "com.mjunction.tatatiscon.eselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:12e0b22897c776e8",
+        "android_client_info": {
+          "package_name": "com.mjunction.tatatube.sitare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:96225b6880774f5ae50c69",
+        "android_client_info": {
+          "package_name": "com.nuvoco.vriddhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616807808716:android:cda31918829cc96b",
+        "android_client_info": {
+          "package_name": "lafarge.maitree.loyalty.lafarge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZPvZGvyTaRViYa0sOIDsLxvE7Wk3yHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616807808716-2ereld2mv9lt47n23bsr2mc6qdinp02c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616807808716-0pephp5l9o62k3fh21t9ehd4jlhs4ki8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mjunction.tatatiscon.eselling"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
