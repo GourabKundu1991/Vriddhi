@@ -71,6 +71,8 @@ const HomeScreen = ({ navigation }) => {
     const [memberType, setMemberType] = React.useState("");
     const [selectedORG, setSelectedORG] = React.useState("");
 
+    const [tierUrl, setTierUrl] = React.useState("");
+
     const goBannerDetails = (dataValue) => {
         if (dataValue.open_type == 1) {
             Linking.openURL(dataValue.android_target_link);
@@ -202,6 +204,7 @@ const HomeScreen = ({ navigation }) => {
                     .then((responseJson) => {
                         console.log("Dashboard:", responseJson);
                         if (responseJson.status == 'success') {
+                            setTierUrl(responseJson.tier_url);
                             setOrgName(responseJson.login_org);
                             if (responseJson.is_approved == 2) {
                                 setIsKYC(true);
@@ -710,6 +713,11 @@ const HomeScreen = ({ navigation }) => {
                         </Box>
                     )}
                     <Box paddingY="3" paddingX="5" mt="5">
+                        {userType != 'CSO' && (
+                            <Button onPress={() => Linking.openURL(tierUrl)} size="sm" style={{ backgroundColor: "#111111", borderRadius: 10, overflow: 'hidden' }} marginBottom={4}>
+                                <Text color="#ffffff" fontSize="sm" fontWeight="bold">{t("Tier Status")}</Text>
+                            </Button>
+                        )}
                         <Box style={{ zIndex: 9 }}>
                             <Text color="#111111" bg={userType == 'Engineer' ? "#f6f6f6" : "#ffffff"} paddingX="5" alignSelf="center" textAlign="center" fontSize="16" fontWeight="bold">{t('Quick Links')}</Text>
                         </Box>

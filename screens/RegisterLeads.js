@@ -176,7 +176,7 @@ const RegisterLeadScreen = ({ navigation }) => {
                     formdata.append("districtId", district);
                     formdata.append("brandName", brandId);
                     formdata.append("specificBrand", specificBrand);
-                    //console.log(formdata);
+                    console.log(formdata);
                     fetch(`${BASE_URL}/generate_lead`, {
                         method: 'POST',
                         headers: {
@@ -186,7 +186,7 @@ const RegisterLeadScreen = ({ navigation }) => {
                     })
                         .then((response) => response.json())
                         .then((responseJson) => {
-                            //console.log("Request:", responseJson);
+                            console.log("Request:", responseJson);
                             if (responseJson.status == 'success') {
                                 Toast.show({ description: responseJson.message });
                                 setTimeout(function () {
@@ -206,7 +206,7 @@ const RegisterLeadScreen = ({ navigation }) => {
                         })
                         .catch((error) => {
                             setLoading(false);
-                            //console.log("Request Error:", error);
+                            console.log("Request Error:", error);
                             Toast.show({ description: t("Sorry! Somthing went Wrong. Maybe Network request Failed") });
                         });
                 } else {
